@@ -21,7 +21,7 @@ Os principais componentes são:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL_DO_SEU_REPOSITORIO>
+    git clone https://github.com/swttpch/example-grpc.git
     cd example-grpc
     ```
 
